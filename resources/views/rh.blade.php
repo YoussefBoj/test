@@ -16,20 +16,8 @@
     scroll-behavior: smooth;
     }
     body{
-    background-image: url(./se.jgp);
+    /* background-image: url(); */
     background-attachment: fixed;
-    }
-    #header{
-    background-image: url(pexels.jpg);
-    background-attachment: fixed;
-    width: 100%;
-    height: 677px;
-    margin-right:30px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-
-
     }
     </style>
 </head>
